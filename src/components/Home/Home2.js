@@ -2,13 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
+import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { SiHashnode } from "react-icons/si";
 
 function Home2() {
   return (
@@ -81,7 +76,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-            
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/alankarshete/"
@@ -102,7 +97,6 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
-            
             </ul>
           </Col>
         </Row>
