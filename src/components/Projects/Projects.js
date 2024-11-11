@@ -5,9 +5,6 @@ import Particle from "../Particle";
 import buzzbird from "../../Assets/Projects/buzzbird thumbnail.png";
 import quiz from "../../Assets/Projects/Quiz.png";
 import tour from "../../Assets/Projects/tour.png";
-import funTranslator from "../../Assets/Projects/fun-translations.png";
-import emoticons from "../../Assets/Projects/know-your-emoticons.png";
-import foodplaza from "../../Assets/Projects/foodplaza.png";
 import project from "../../Assets/Projects/project.png";
 
 function Projects() {
