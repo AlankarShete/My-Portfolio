@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Alankar Shete </span>
             from <span className="purple"> Pune, India.</span>
-            <br /> I am a Information Technology graduate from D.Y. Patil Collage of Engineering, Pune.
+            <br /> I am a Information Technology graduate from D.Y. Patil
+            Collage of Engineering, Pune.
             <br />
-            Currently, I am learning Web Development and Frontend Skills and
-            building projects in it.
+            Currently, I am learning and working on DevOps.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

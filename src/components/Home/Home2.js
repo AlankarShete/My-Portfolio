@@ -12,39 +12,39 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              "Meet Your <span className="purple">DevOps Dynamo! �⚡ </span>{" "}
+              MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and discovered a world of endless
-              possibilities, where I could turn my ideas into reality and make a
-              meaningful impact.
+              When CI/CD pipelines need a hero,{" "}
+              <b className="purple"> Jenkins & Git </b> answer the call—deploys
+              so smooth, they feel illegal. 🦸‍♂️
               <br />
-              <br />I am fluent in tech like
-              <i>
-                <b className="purple"> Javascript(ES6+) and ReactJS. </b>
-              </i>
+              Infrastructure as Code? More like Infrastructure as ‘Oh Wow, It
+              Just Works’—
+              <b className="purple"> Terraform, Ansible, and Vagrant </b> are my
+              trusty sidekicks.
               <br />
+              Containers? Dockerized. Orchestrated?{" "}
+              <b className="purple"> Kubernetes-approved </b>. ☸️ (Kubectl
+              commands flow from my fingers like magic spells.)
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">Web Accessibility.</b>
-              </i>
+              <b className="purple"> AWS </b>clouds part when I log in. ☁️ "Let
+              there be scalable infrastructure!" And there was. <br />
+              Monitoring? <b className="purple">Prometheus and Splunk</b>
+              whisper sweet nothings—"Your uptime is flawless, darling."
               <br />
+              Scripting? <b className="purple"> Python & Bash </b> are my love
+              languages. 💻 ❤️
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
+              And when I’m feeling fancy—
+              <b className="purple"> JavaScript, React, Node, Next, or Java </b>
+              turn "Wait, how?" into "Wait, that was fast." So if you need
+              someone to automate the chaos, optimize the madness, and maybe
+              deploy a dad joke or two—I’m your engineer. 😎"
+              <br />
+              (Now let’s go make some git push magic happen.) 🚀
+              <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
