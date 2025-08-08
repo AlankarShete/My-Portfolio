@@ -1,22 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiGit,
-  DiHtml5,
-  DiCss3,
-} from "react-icons/di";
-import {
-  SiPostgresql,
-  SiTailwindcss,
-  SiMui,
-  SiReactrouter,
-  SiRedux,
-  SiD,
-} from "react-icons/si";
+import { DiJavascript1, DiReact, DiNodejs, DiGit } from "react-icons/di";
+
 import { FaAws, FaJenkins } from "react-icons/fa";
 import {
   SiTerraform,
